@@ -1,11 +1,23 @@
 h1 {
-  color: red;
+  color: #003055;
+  /* border-color: purple;
+  border-width: 5px;
+  border-style: solid; */
+
+  border: 2px solid purple;
 }
 
-li {
-  color: green;
-}
+/* width
+color
+style */
 
 h4 {
-  color: purple;
+  background: rgb(255, 100, 80);
+}
+
+body {
+  background: lightslategray;
+  /* background: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/wood-grain-2-ed-einboden.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; */
 }
